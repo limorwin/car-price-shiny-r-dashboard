@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "packages": [
+    {"package": "shiny"},
+    {"package": "dplyr"},
+    {"package": "ggplot2"},
+    {"package": "readr"}
+  ]
+}
